@@ -13,7 +13,7 @@
   },
   "LIC003-RP": {
     "cliente": "Contabilidade ABC",
-    "status": "ativa",
+    "status": "inativa",
     "expira_em": "2026-03-01",
     "fingerprint": "DESKTOP-O902OJQ-Usuario"
   },
