@@ -10,7 +10,8 @@
     "status": "inativa",
     "expira_em": "2024-10-15",
     "fingerprint": "JOAO-PC456"
-  },
+  } 
+    },
   "LIC003-RP": {
     "cliente": "Contabilidade ABC",
     "status": "ativa",
