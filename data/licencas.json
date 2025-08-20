@@ -1,7 +1,7 @@
 {
   "LIC001-RP": {
     "cliente": "Teste",
-    "status": "ativa",
+    "status": "inativa",
     "expira_em": "2999-12-31",
     "fingerprint": "DESKTOP-O902OJQ-USUARIO"
   },
