@@ -15,7 +15,7 @@
     "cliente": "Contabilidade ABC",
     "status": "ativa",
     "expira_em": "2026-03-01",
-    "fingerprint": "ABC-XYZ789"
+    "fingerprint": "DESKTOP-O902OJQ-Usuario"
   }
     },
   "LIC004-RP": {
@@ -23,5 +23,5 @@
     "status": "ativa",
     "expira_em": "2026-03-01",
     "fingerprint": "ABC-XYZ789"
-  },
+  }
 }
