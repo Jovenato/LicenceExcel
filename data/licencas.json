@@ -3,22 +3,20 @@
     "cliente": "Teste",
     "status": "inativa",
     "expira_em": "2999-12-31",
-    "fingerprint": "DESKTO-O902OJQ-Usuario"
+    "fingerprint": "DESKTOP-O902OJQ-Usuario"
   },
   "LIC002-RP": {
     "cliente": "João da Silva",
     "status": "inativa",
     "expira_em": "2024-10-15",
     "fingerprint": "JOAO-PC456"
-  } 
-    },
+  },
   "LIC003-RP": {
     "cliente": "Contabilidade ABC",
     "status": "ativa",
     "expira_em": "2026-03-01",
     "fingerprint": "DESKTOP-O902OJQ-Usuario"
-  }
-    },
+  },
   "LIC004-RP": {
     "cliente": "Cliente ABC",
     "status": "ativa",
