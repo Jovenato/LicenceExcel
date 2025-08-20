@@ -1,0 +1,17 @@
+{
+  "LIC001-RP": {
+    "cliente": "Empresa XPTO",
+    "status": "ativa",
+    "expira_em": "2025-12-31"
+  },
+  "LIC002-RP": {
+    "cliente": "João da Silva",
+    "status": "inativa",
+    "expira_em": "2024-10-15"
+  },
+  "LIC003-RP": {
+    "cliente": "Contabilidade ABC",
+    "status": "ativa",
+    "expira_em": "2026-03-01"
+  }
+}
