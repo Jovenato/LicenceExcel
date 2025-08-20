@@ -1,9 +1,9 @@
 {
   "LIC001-RP": {
-    "cliente": "Empresa XPTO",
+    "cliente": "Teste",
     "status": "ativa",
-    "expira_em": "2025-12-31",
-    "fingerprint": "XPTO-ABC123"
+    "expira_em": "2999-12-31",
+    "fingerprint": "DESKTOP-O902OJQ-Usuario"
   },
   "LIC002-RP": {
     "cliente": "João da Silva",
